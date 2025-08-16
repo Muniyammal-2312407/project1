@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main(){
     int a = 5;
@@ -6,4 +6,5 @@ int main(){
     int sum = a + b;
 
     printf("Sum of %d and %d is: %d\n", a, b, sum);
+
     return 0;
