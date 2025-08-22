@@ -8,3 +8,4 @@ int main(){
     printf("Sum of %d and %d is: %d\n", a, b, sum);
 
     return 0;
+}
